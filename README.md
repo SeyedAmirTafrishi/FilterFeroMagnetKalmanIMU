@@ -31,7 +31,7 @@ There is no dependencies for the offline code. However, in order to run the real
 
 ##  Publications
 
-- S. A. Tafrishi, M. Svinin and M. Yamamoto, 2021. [A Motion Estimation Filter for Inertial Measurement Unit With On-Board Ferromagnetic Materials](https://10.1109/LRA.2021.3067301). IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4939-4946.
+- S. A. Tafrishi, M. Svinin and M. Yamamoto, 2021. [A Motion Estimation Filter for Inertial Measurement Unit With On-Board Ferromagnetic Materials](https://ieeexplore.ieee.org/document/93816411). IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4939-4946, doi: 10.1109/LRA.2021.306730.
 
 - S. A. Tafrishi, M. Svinin and M. Yamamoto, 2021. [A Motion Estimation Filter for Inertial Measurement Unit With On-Board Ferromagnetic Materials](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_3.html). Presented in 2021 International Conference on Robotics and Automation (ICRA2022). 
 

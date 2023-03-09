@@ -11,7 +11,7 @@ Magnetic distortions due to existing appliances and on-board objects with ferrom
 
 ## Usage
 
-To use the proposed Kalman-based filter code, please refer to the main code "Offline_IMU_DCM_COMP.m". The code explains the details of how to run the filter. 
+To use the proposed Kalman-based filter code, please refer to the main code `Offline_IMU_DCM_COMP.m`. The code explains the details of how to run the filter. 
 
 ## Dependencies
 

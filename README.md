@@ -3,8 +3,10 @@
 
 Magnetic distortions due to existing appliances and on-board objects with ferromagnetic materials cause serious bias and deviations in motion estimation by inertial measurement sensors with magnetometers. This problem requires a proper sensor fusion to do motion tracking with a minimal angular error. This letter presents a design of a complementary filter that compensates the strong magnetic effects of on-board ferromagnetic materials. Not only the attached permanent magnets may have serious biases on the magnetometer axes but also there is a magnetic distortion due to soft ferromagnetic materials, i.e., steel. After defining the signals of the inertial/magnetic sensors, the process and measurement models are described and a Kalman filter is constructed. The designed filter can be used for motion tracking in environments with magnetic distortions, and in robot actuators with magnetic parts. The performance of the proposed filter is verified under experiment and compared with conventional filters. Finally, we raise a question about whether the attachment of permanent magnets to inertial measurement sensors can serve as a magnetic shield improving the motion estimation
 
-![](/image.png)
+## Concept and Video Presentation
 ![](/image.gif)
+![](/image.png)
+
 
 ## Usage
 

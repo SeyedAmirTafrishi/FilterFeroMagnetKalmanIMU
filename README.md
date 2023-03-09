@@ -17,7 +17,7 @@ To use the proposed Kalman-based filter code, please refer to the main code `Off
 
 There is no dependencies for the offline code. However, in order to run the real-time version, the following packages are required:
 
-- Requires a web camera and an IMU sensor. 
+- Requires an IMU with magnetometer sensor for real experiment. 
 
 ## Website 
 (https://www.amirtafrishi.com/)
